@@ -17,7 +17,6 @@ This repository provides the reproducible machine learning-driven Quantitative S
   * Model robustness verification via **Y-Randomization** ($cR_p^2$).
   * **Applicability Domain (AD)** defined via Leverage analysis and **Williams Plot**.
 * **Model Explainability:** Feature impact assessment using **SHAP (SHapley Additive exPlanations)**.
-* **Virtual Screening:** High-throughput screening of seaweed-derived natural product library identifying lead candidate **BE002**.
 
 ---
 
